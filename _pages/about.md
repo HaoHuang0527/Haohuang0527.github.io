@@ -14,7 +14,7 @@ My interests lie in the development of computer vision. I worked on a research p
 ------
 Education
 ======
-The Hong Kong University of Science and Technology   Sept. 2022 - Present
+The Hong Kong University of Science and Technology,   Sept. 2022 - Present
 
 Major: Computer Science and Engineering with an Extended Major in Artificial Intelligence
 
@@ -39,30 +39,30 @@ Honour
 2020: Second prize of Guangdong Province in the 37th Chinese Physics Olympiad
 
 ------
-Projects
+Research Projects
 ======
 1. RAGEN: Reinforcement Learning for Reasoning-Able Language Models: Developing a reinforcement learning framework for LLMs in interactive, stochastic environments, Mar/2025 – Present
 
-   Advsor: Prof. 
+   Advisor: Prof. [Wenhu Chen](https://wenhuchen.github.io/)
    1. Formulate agent-environment interactions as Markov Decision Processes (MDPs) to enable sequential decision-making and reasoning over dynamic environments.
    2. Implement the Reason-Interaction Chain Optimization (RICO) algorithm to jointly optimize reasoning and action strategies, enhancing the LLM's performance across multi-turn interactions.
    3. Develop progressive reward normalization strategies (ARPO, BRPO, GRPO) to stabilize training and improve learning efficiency in diverse, complex environments.
       
 2. UROP 1101 on BLIP (Bootstrapped Language-Image Pre-training) and Noise Collage: Integrating BLIP and Noise Collage within the Stable Diffusion framework, Sept/2024 – Feb/2025
    
-   Advisor: Prof. 
+   Advisor: Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/)
    1. Leveraged BLIP's advanced semantic understanding capabilities to enhance text-to-image alignment, significantly improving the quality of generated images based on textual descriptions.
    2. Employed Noise Collage techniques to curate and blend visual elements, creating dynamic and diverse image compositions, thereby expanding the creative potential of the Stable Diffusion model.
       
 3. UROP 1100 on ReactionOOD: Investigating machine learning methods of ReactionOOD, Jun/2024 -- Aug/2024
       
-   Advisor: Prof. 
+   Advisor: Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/)
    1. Analyzed the GOOD dataset, implemented the Chemprop model, and evaluated results for accuracy in atom-to-atom mapping.
    2. Collaborated with peers and mentors to explore reaction mechanisms and atom-to-atom mapping techniques.
       
 4. UROP 1000 on Complex Network: Analyzing Dynamic Volatility Spillover between Chinese Carbon and International Energy Markets from Climate Shocks, Jun/2023 - Aug/2023
       
-   Advisor: Prof. 
+   Advisor: Prof. [Sai-Ping Li](https://physics.hkust.edu.hk/people/li-sai-ping-lishibing)
    1. Applied econometric models to analyze the complex relationships between the Chinese carbon market and international energy markets under the impact of climate shocks.
    2. Optimized process, prepared input data for rigorous model testing and drew results from the model.
 
@@ -77,7 +77,7 @@ Company: Guangzhou Xiaochuang Intelligent Technology Co., Ltd, Guangzhou, China
 
 RD Intern: Paper Method Restructuring, Dec/2024 – Feb/2025
 
-Advisor: Dr. 
+Advisor: Dr. [Ziyi Tang](https://openreview.net/profile?id=~Ziyi_Tang1)
 
 1. Focused on paper method restructuring proposed in cutting-edge academic papers.
 2. Sorted out the core ideas and key steps from cutting-edge academic papers.
