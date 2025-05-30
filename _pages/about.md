@@ -1,13 +1,67 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am an undergraduate student majoring in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://www.hkust.edu.hk/).
+
+My interests lie in the development of computer vision. I worked on a research project focused on integrating BLIP (Bootstrapped Language-Image Pre-training) and Noice Collage within the Stable Diffusion framework to enhance AI-driven image generation. This involves experimenting with BLIP to improve text-to-image alignment by leveraging its advanced semantic understanding capabilities, while simultaneously utilizing Noice Collage to curate and blend visual elements for dynamic compositions. I have been fine-tuning Stable Diffusion models to test the synergy between these tools and analyzing the generated outputs. Additionally, I am proficient in techniques such as prompt engineering, model fine-tuning, latent space exploration, and blending methods to optimize image quality. Furthermore, I am comfortable using Python-based libraries such as PyTorch and Hugging Face, alongside tools like CLIP and BLIP for model integration and performance evaluation.
+
+Education
+======
+The Hong Kong University of Science and Technology   Sept. 2022 - Present
+
+Major: Computer Science and Engineering with an Extended Major in Artificial Intelligence
+
+Key Courses: Deep Learning, Data Structures Analysis, Algorithm Design, Relational Database, Operating System
+
+Technical Skills
+======
+Computer Languages: Python, JavaScript, SQL, Bash, C/C++, MATLAB
+1. C++: Proficient in C++, equipped with advanced skills such as efficient memory management, template metaprogramming, and object - oriented design patterns etc.
+2. Python: Proficient in Python, master several models like OpenCV and Pillow of editing images
+
+Libraries & Tools: PyTorch, Jax, Numpy, Scikit
+
+Language: Fluent in Mandarin and English, both in written and spoken forms
+
+Honour
+======
+2023: Dean's List for the School of Engineering
+
+2021: Second prize of Guangdong Province in the 37th Chinese Mathematical Olympiad
+
+2020: Second prize of Guangdong Province in the 37th Chinese Physics Olympiad
+
+Projects
+======
+1. RAGEN: Reinforcement Learning for Reasoning-Able Language Models, Mar/2025 – Present
+   
+   Project: Developing a reinforcement learning framework for LLMs in interactive, stochastic environments
+   
+   o	Formulate agent-environment interactions as Markov Decision Processes (MDPs) to enable sequential decision-making and reasoning over dynamic environments.
+   
+   o	Implement the Reason-Interaction Chain Optimization (RICO) algorithm to jointly optimize reasoning and action strategies, enhancing the LLM's performance across multi-turn interactions.
+   
+   o	Develop progressive reward normalization strategies (ARPO, BRPO, GRPO) to stabilize training and improve learning efficiency in diverse, complex environments.
+
+2. Integrating BLIP and Noise Collage within the Stable Diffusion framework
+======
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
+
+Site-wide configuration
+------
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. Site-wide configuration
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 A data-driven personal website
 ======
