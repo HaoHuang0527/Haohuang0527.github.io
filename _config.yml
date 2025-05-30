@@ -26,7 +26,7 @@ author:
   name             : "Hao Huang"
   pronouns         : # example: "he/him"  
   bio              : "An undergraduate student majoring in Computer Science and Engineering at The Hong Kong University of Science and Technology"
-  location         : "Clear Water Bay, Kowloon, Hong Kong 999077"
+  location         : "Hong Kong"
   employer         : 
   uri              : # URL
   email            : "[Haohuang0527@gmail.com](mailto:haohuang0527@gmail.com}" 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/haohuang0527"
+  github           : "https://haohuang0527.github.io"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
