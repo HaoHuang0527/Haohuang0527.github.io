@@ -13,7 +13,7 @@ My interests lie in the development of computer vision. I worked on a research p
 
 ------
 Education
-======
+
 The Hong Kong University of Science and Technology,   Sept. 2022 - Present
 
 Major: Computer Science and Engineering with an Extended Major in Artificial Intelligence
@@ -22,7 +22,7 @@ Key Courses: Deep Learning, Data Structures Analysis, Algorithm Design, Relation
 
 ------
 Technical Skills
-======
+
 1. Computer Languages: Python, JavaScript, SQL, Bash, C/C++, MATLAB
    1. C++: Proficient in C++, equipped with advanced skills such as efficient memory management, template metaprogramming, and object - oriented design patterns etc.
    2. Python: Proficient in Python, master several models like OpenCV and Pillow of editing images.
@@ -31,7 +31,7 @@ Technical Skills
 
 ------
 Honour
-======
+
 2023: Dean's List for the School of Engineering
 
 2021: Second prize of Guangdong Province in the 37th Chinese Mathematical Olympiad
@@ -40,7 +40,7 @@ Honour
 
 ------
 Research Projects
-======
+
 1. RAGEN: Reinforcement Learning for Reasoning-Able Language Models: Developing a reinforcement learning framework for LLMs in interactive, stochastic environments, Mar/2025 – Present
 
    Advisor: Prof. [Wenhu Chen](https://wenhuchen.github.io/)
@@ -72,7 +72,7 @@ Research Projects
 
 ------
 Working experience
-======
+
 Company: Guangzhou Xiaochuang Intelligent Technology Co., Ltd, Guangzhou, China
 
 RD Intern: Paper Method Restructuring, Dec/2024 – Feb/2025
