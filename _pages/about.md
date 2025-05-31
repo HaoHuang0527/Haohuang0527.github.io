@@ -25,9 +25,9 @@ Technical Skills
 
 1. Computer Languages: Python, JavaScript, SQL, Bash, C/C++, MATLAB
 
-   a. C++: Proficient in C++, equipped with advanced skills such as efficient memory management, template metaprogramming, and object - oriented design patterns etc.
+   C++: Proficient in C++, equipped with advanced skills such as efficient memory management, template metaprogramming, and object - oriented design patterns etc.
 
-   b. Python: Proficient in Python, master several models like OpenCV and Pillow of editing images.
+   Python: Proficient in Python, master several models like OpenCV and Pillow of editing images.
    
 3. Libraries & Tools: PyTorch, Jax, Numpy, Scikit
 4. Language: Fluent in Mandarin and English, both in written and spoken forms
