@@ -24,8 +24,8 @@ Key Courses: Deep Learning, Data Structures Analysis, Algorithm Design, Relation
 Technical Skills
 
 1. Computer Languages: Python, JavaScript, SQL, Bash, C/C++, MATLAB
-   i. C++: Proficient in C++, equipped with advanced skills such as efficient memory management, template metaprogramming, and object - oriented design patterns etc.
-   ii. Python: Proficient in Python, master several models like OpenCV and Pillow of editing images.
+   a. C++: Proficient in C++, equipped with advanced skills such as efficient memory management, template metaprogramming, and object - oriented design patterns etc.
+   b. Python: Proficient in Python, master several models like OpenCV and Pillow of editing images.
 2. Libraries & Tools: PyTorch, Jax, Numpy, Scikit
 3. Language: Fluent in Mandarin and English, both in written and spoken forms
 
@@ -44,31 +44,31 @@ Research Projects
 1. RAGEN: Reinforcement Learning for Reasoning-Able Language Models: Developing a reinforcement learning framework for LLMs in interactive, stochastic environments, Mar/2025 – Present
 
    Advisor: Prof. [Wenhu Chen](https://wenhuchen.github.io/)
-   i. Formulate agent-environment interactions as Markov Decision Processes (MDPs) to enable sequential decision-making and reasoning over dynamic environments.
-   ii. Implement the Reason-Interaction Chain Optimization (RICO) algorithm to jointly optimize reasoning and action strategies, enhancing the LLM's performance across multi-turn interactions.
-   iii. Develop progressive reward normalization strategies (ARPO, BRPO, GRPO) to stabilize training and improve learning efficiency in diverse, complex environments.
+   a. Formulate agent-environment interactions as Markov Decision Processes (MDPs) to enable sequential decision-making and reasoning over dynamic environments.
+   b. Implement the Reason-Interaction Chain Optimization (RICO) algorithm to jointly optimize reasoning and action strategies, enhancing the LLM's performance across multi-turn interactions.
+   c. Develop progressive reward normalization strategies (ARPO, BRPO, GRPO) to stabilize training and improve learning efficiency in diverse, complex environments.
       
 2. UROP 1101 on BLIP (Bootstrapped Language-Image Pre-training) and Noise Collage: Integrating BLIP and Noise Collage within the Stable Diffusion framework, Sept/2024 – Feb/2025
    
    Advisor: Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/)
-   i. Leveraged BLIP's advanced semantic understanding capabilities to enhance text-to-image alignment, significantly improving the quality of generated images based on textual descriptions.
-   ii. Employed Noise Collage techniques to curate and blend visual elements, creating dynamic and diverse image compositions, thereby expanding the creative potential of the Stable Diffusion model.
+   a. Leveraged BLIP's advanced semantic understanding capabilities to enhance text-to-image alignment, significantly improving the quality of generated images based on textual descriptions.
+   b. Employed Noise Collage techniques to curate and blend visual elements, creating dynamic and diverse image compositions, thereby expanding the creative potential of the Stable Diffusion model.
       
 3. UROP 1100 on ReactionOOD: Investigating machine learning methods of ReactionOOD, Jun/2024 -- Aug/2024
       
    Advisor: Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/)
-   i. Analyzed the GOOD dataset, implemented the Chemprop model, and evaluated results for accuracy in atom-to-atom mapping.
-   ii. Collaborated with peers and mentors to explore reaction mechanisms and atom-to-atom mapping techniques.
+   a. Analyzed the GOOD dataset, implemented the Chemprop model, and evaluated results for accuracy in atom-to-atom mapping.
+   b. Collaborated with peers and mentors to explore reaction mechanisms and atom-to-atom mapping techniques.
       
 4. UROP 1000 on Complex Network: Analyzing Dynamic Volatility Spillover between Chinese Carbon and International Energy Markets from Climate Shocks, Jun/2023 - Aug/2023
       
    Advisor: Prof. [Sai-Ping Li](https://physics.hkust.edu.hk/people/li-sai-ping-lishibing)
-   i. Applied econometric models to analyze the complex relationships between the Chinese carbon market and international energy markets under the impact of climate shocks.
-   ii. Optimized process, prepared input data for rigorous model testing and drew results from the model.
+   a. Applied econometric models to analyze the complex relationships between the Chinese carbon market and international energy markets under the impact of climate shocks.
+   b. Optimized process, prepared input data for rigorous model testing and drew results from the model.
 
 5. Robot Master: Robot competition, Feb/2023 - Apr/2023
-   i. Responsible for the mechanical design of two robots and self-studied SolidWorks.
-   ii. Worked closely with team members in all aspects of the project, which enhanced my teamwork skills.
+   a. Responsible for the mechanical design of two robots and self-studied SolidWorks.
+   b. Worked closely with team members in all aspects of the project, which enhanced my teamwork skills.
 
 ------
 Working experience
