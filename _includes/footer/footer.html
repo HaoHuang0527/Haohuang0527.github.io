@@ -1,0 +1,30 @@
+<footer>
+  <div class="wrapper">
+    {% if site.footer_links %}
+      <div class="social-icons">
+        {% for link in site.footer_links %}
+          {% if link.url contains "://" %}
+            {% assign url = link.url %}
+          {% else %}
+            {% assign url = link.url | relative_url %}
+          {% endif %}
+          <a href="{{ url }}" class="social-icon">{% include {{ link.icon | default: 'social-icon.html' }} icon=link %}</a>
+        {% endfor %}
+      </div>
+    {% endif %}
+    <div class="credits">
+      {% if site.last_updated %}
+        <p class="last-updated">Last updated: {{ site.last_updated | date: "%B %-d, %Y" }}</p>
+      {% endif %}
+      <p class="copyright">© {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}</p>
+      <p class="powered-by">
+        {% if site.impressum_path %}
+          <a href="{{ site.impressum_path | relative_url }}">Impressum</a>
+        {% endif %}
+        {% if site.privacy_policy_path %}
+          <a href="{{ site.privacy_policy_path | relative_url }}">Privacy Policy</a>
+        {% endif %}
+      </p>
+    </div>
+  </div>
+</footer>
