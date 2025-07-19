@@ -21,10 +21,11 @@ Through these projects, I have honed skills in model fine-tuning, multi-modal in
 Education
 
 The Hong Kong University of Science and Technology,   Sept. 2022 - Present
-
 Major: Computer Science and Engineering with an Extended Major in Artificial Intelligence
-
 Key Courses: Deep Learning, Data Structures Analysis, Algorithm Design, Relational Database, Operating System
+
+Korea Advanced Institute of Science and Technology ,   Feb. 2025 - Jun. 2025
+Undergraduate Student Exchange Program
 
 ------
 Technical Skills
