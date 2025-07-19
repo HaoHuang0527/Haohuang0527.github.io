@@ -21,10 +21,13 @@ Through these projects, I have honed skills in model fine-tuning, multi-modal in
 Education
 
 The Hong Kong University of Science and Technology,   Sept. 2022 - Present
+
 Major: Computer Science and Engineering with an Extended Major in Artificial Intelligence
+
 Key Courses: Deep Learning, Data Structures Analysis, Algorithm Design, Relational Database, Operating System
 
 Korea Advanced Institute of Science and Technology ,   Feb. 2025 - Jun. 2025
+
 Undergraduate Student Exchange Program
 
 ------
@@ -53,7 +56,7 @@ Research Projects
 
 1. RAGEN: Reinforcement Learning for Reasoning-Able Language Models: Developing a reinforcement learning framework for LLMs in interactive, stochastic environments, Mar/2025 – Present
 
-   Advisor: Prof. [Wenhu Chen](https://wenhuchen.github.io/)
+   Supervisor: Zhiheng Lyu; Prof. [Wenhu Chen](https://wenhuchen.github.io/)
 
    a. Formulate agent-environment interactions as Markov Decision Processes (MDPs) to enable sequential decision-making and reasoning over dynamic environments.
 
@@ -63,7 +66,7 @@ Research Projects
       
 3. UROP 1101 on BLIP (Bootstrapped Language-Image Pre-training) and Noise Collage: Integrating BLIP and Noise Collage within the Stable Diffusion framework, Sept/2024 – Feb/2025
    
-   Advisor: Prof. [Song GUO](https://seng.hkust.edu.hk/about/people/faculty/song-guo); PhD [Bingjie Wang](https://hkpeilab.github.io/people/bingjie-wang/)
+   Supervisor: PhD [Bingjie Wang](https://hkpeilab.github.io/people/bingjie-wang/); Prof. [Song GUO](https://seng.hkust.edu.hk/about/people/faculty/song-guo)
 
    a. Leveraged BLIP's advanced semantic understanding capabilities to enhance text-to-image alignment, significantly improving the quality of generated images based on textual descriptions.
 
@@ -71,7 +74,7 @@ Research Projects
       
 5. UROP 1100 on ReactionOOD: Investigating machine learning methods of ReactionOOD, Jun/2024 -- Aug/2024
       
-   Advisor: Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/)
+   Supervisor: Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/)
 
    a. Analyzed the GOOD dataset, implemented the Chemprop model, and evaluated results for accuracy in atom-to-atom mapping.
 
@@ -79,7 +82,7 @@ Research Projects
       
 7. UROP 1000 on Complex Network: Analyzing Dynamic Volatility Spillover between Chinese Carbon and International Energy Markets from Climate Shocks, Jun/2023 - Aug/2023
       
-   Advisor: Prof. [Sai-Ping Li](https://physics.hkust.edu.hk/people/li-sai-ping-lishibing)
+   Supervisor: Prof. [Sai-Ping Li](https://physics.hkust.edu.hk/people/li-sai-ping-lishibing)
 
    a. Applied econometric models to analyze the complex relationships between the Chinese carbon market and international energy markets under the impact of climate shocks.
 
@@ -98,7 +101,7 @@ Company: Guangzhou Xiaochuang Intelligent Technology Co., Ltd, Guangzhou, China
 
 RD Intern: Paper Method Restructuring, Dec/2024 – Feb/2025
 
-Advisor: Dr. [Ziyi Tang](https://openreview.net/profile?id=~Ziyi_Tang1)
+Supervisor: Dr. [Ziyi Tang](https://openreview.net/profile?id=~Ziyi_Tang1)
 
 1. Focused on paper method restructuring proposed in cutting-edge academic papers.
 2. Sorted out the core ideas and key steps from cutting-edge academic papers.
