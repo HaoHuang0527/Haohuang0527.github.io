@@ -56,7 +56,7 @@ Research Projects
       
 3. UROP 1101 on BLIP (Bootstrapped Language-Image Pre-training) and Noise Collage: Integrating BLIP and Noise Collage within the Stable Diffusion framework, Sept/2024 – Feb/2025
    
-   Advisor: Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/)
+   Advisor: Prof. [Song GUO](https://www.cse.ust.hk/~yqsong/); PhD [Bingjie Wang](https://hkpeilab.github.io/people/bingjie-wang/)
 
    a. Leveraged BLIP's advanced semantic understanding capabilities to enhance text-to-image alignment, significantly improving the quality of generated images based on textual descriptions.
 
