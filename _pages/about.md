@@ -13,20 +13,20 @@ My interests span both computer vision and large language models (LLMs), driven 
 
 I built on my foundation in computer vision through the UROP 1101 project, where I integrated BLIP (Bootstrapped Language-Image Pre-training) and Noise Collage within the Stable Diffusion framework to enhance AI-driven image generation. This work involved leveraging BLIP’s semantic understanding to refine text-to-image alignment, boosting the quality of images generated from textual descriptions, while using Noise Collage techniques to curate and blend visual elements for dynamic compositions. I fine-tuned Stable Diffusion models to test these synergies and analyzed outputs to optimize performance.
 
-Expanding into LLMs, I am currently working on the RAGEN project, developing a reinforcement learning framework for reasoning-able LLMs in interactive, stochastic environments. Here, I formulate agent-environment interactions as Markov Decision Processes (MDPs) to enable sequential decision-making in dynamic settings, implement the Reason-Interaction Chain Optimization (RICO) algorithm to jointly optimize reasoning and action strategies for multi-turn interactions, and develop progressive reward normalization strategies (ARPO, BRPO, GRPO) to stabilize training and improve efficiency in complex environments.
+Expanding into LLMs, I worked on the RAGEN project, developing a reinforcement learning framework for reasoning-able LLMs in interactive, stochastic environments. Here, I formulated agent-environment interactions as Markov Decision Processes (MDPs) to enable sequential decision-making in dynamic settings, implemented ARPO/BRPO/GRPO progressive reward normalization and trajectory-level optimization (PPO/GAE vs. GRPO), achieving stable multi-turn updates and reducing gradient spikes, and added uncertainty-based trajectory filtering and gradient shaping (KL removal, asymmetric clipping) to delay collapse and improve sample efficiency.
 
 Through these projects, I have honed skills in model fine-tuning, multi-modal integration (BLIP, CLIP), reinforcement learning, algorithm implementation, and performance analysis, using tools like PyTorch, Hugging Face, and frameworks for both vision and language models. I am confident in my ability to tackle challenges at the intersection of these fields, and excited to continue exploring how LLMs and computer vision can together advance intelligent AI systems.
 
 ------
 Education
 
-1. The Hong Kong University of Science and Technology,   Sept. 2022 - Present
+1. The Hong Kong University of Science and Technology,   Sept 2022 - Present
 
    Major: Computer Science and Engineering with an Extended Major in Artificial Intelligence
 
    Key Courses: Deep Learning, Data Structures Analysis, Algorithm Design, Relational Database, Operating System
 
-2. Korea Advanced Institute of Science and Technology ,   Feb. 2025 - Jun. 2025
+2. Korea Advanced Institute of Science and Technology ,   Feb 2025 - Jun 2025
 
    Undergraduate Student Exchange Program
 
@@ -45,7 +45,13 @@ Technical Skills
 ------
 Honour
 
-2023: Dean's List for the School of Engineering
+Spring 2024: The BDR Scholarship - Academic Performance
+
+Fall 2023: The BDR Scholarship - Academic Performance
+
+Spring 2023: Dean's List for the School of Engineering
+
+Fall 2022: Dean's List for the School of Engineering
 
 2021: Second prize of Guangdong Province in the 37th Chinese Mathematical Olympiad
 
@@ -54,33 +60,47 @@ Honour
 ------
 Research Projects
 
-1. RAGEN: Reinforcement Learning for Reasoning-Able Language Models: Developing a reinforcement learning framework for LLMs in interactive, stochastic environments, Mar/2025 – Present
+1. IRASim: A Fine-Grained World Model for Robotic Manipulation, Jun 2025 – Present
+
+   Supervisor: Dr. Hongtao Wu, Dr. Tao Kong (ByteDance, Seed Robotics) 
+
+   a. Proposed IRASim, a framework for generating high-quality videos accurately depicting fine-grained robotic arm-object interaction. Using a novel frame-level action conditioning module, IRASim achieves precise alignment between actions and video frames.
+
+   b. Conducted extensive experiments on action-conditioned video generation, demonstrating that IRASim outperforms all baseline methods in terms of video quality. Moreover, the model exhibits strong scalability with increasing model size and computational resources.
+
+   c. Demonstrated IRASim’s application in robotic manipulation for policy evaluation and planning, achieving strong correlation between IRASim-based evaluations and real-world simulators. Integration with model-based planning algorithms significantly improves policy performance in both simulated and real robotic environments.
+
+2. RAGEN: Reinforcement Learning for Reasoning-Able Language Models: Developing a reinforcement learning framework for LLMs in interactive, stochastic environments, Mar 2025 – Jul 2025
 
    Supervisor: Zhiheng Lyu; Prof. [Wenhu Chen](https://wenhuchen.github.io/)
 
    a. Formulate agent-environment interactions as Markov Decision Processes (MDPs) to enable sequential decision-making and reasoning over dynamic environments.
 
-   b. Implement the Reason-Interaction Chain Optimization (RICO) algorithm to jointly optimize reasoning and action strategies, enhancing the LLM's performance across multi-turn interactions.
+   b. Implemented ARPO/BRPO/GRPO progressive reward normalization and trajectory-level optimization (PPO/GAE vs. GRPO), achieving stable multi-turn updates and reducing gradient spikes.
 
-   c. Develop progressive reward normalization strategies (ARPO, BRPO, GRPO) to stabilize training and improve learning efficiency in diverse, complex environments.
+   c. Added uncertainty-based trajectory filtering and gradient shaping (KL removal, asymmetric clipping) to delay collapse and improve sample efficiency.
       
-3. UROP 1101 on BLIP (Bootstrapped Language-Image Pre-training) and Noise Collage: Integrating BLIP and Noise Collage within the Stable Diffusion framework, Sept/2024 – Feb/2025
+3. UROP 1101 on BLIP (Bootstrapped Language-Image Pre-training) and Noise Collage: Integrating BLIP and Noise Collage within the Stable Diffusion framework, Sept 2024 – Feb 2025
    
    Supervisor: PhD [Bingjie Wang](https://hkpeilab.github.io/people/bingjie-wang/); Prof. [Song GUO](https://seng.hkust.edu.hk/about/people/faculty/song-guo)
 
-   a. Leveraged BLIP's advanced semantic understanding capabilities to enhance text-to-image alignment, significantly improving the quality of generated images based on textual descriptions.
+   a. Enhanced text-to-image alignment using BLIP’s advanced semantic understanding capabilities, significantly improving the quality of generated images based on textual descriptions.
 
-   b. Employed Noise Collage techniques to curate and blend visual elements, creating dynamic and diverse image compositions, thereby expanding the creative potential of the Stable Diffusion model.
+   b. Adapted layout-aware text-to-image generation with accurate object positions, semantic coherence, and image fidelity.
+
+   c. Applied Noise Collage techniques to blend visual elements, creating dynamic and diverse image compositions, thereby expanding the creative potential of the Stable Diffusion model.
       
-5. UROP 1100 on ReactionOOD: Investigating machine learning methods of ReactionOOD, Jun/2024 -- Aug/2024
+5. UROP 1100 on ReactionOOD: Investigating machine learning methods of ReactionOOD, Jun 2024 -- Aug 2024
       
    Supervisor: Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/)
 
-   a. Analyzed the GOOD dataset, implemented the Chemprop model, and evaluated results for accuracy in atom-to-atom mapping.
+   a. Trained and evaluated the Chemprop model using the GOOD dataset for accurate atom-to-atom mapping in chemical reactions.
 
-   b. Collaborated with peers and mentors to explore reaction mechanisms and atom-to-atom mapping techniques.
+   b. Analyzed model performance to assess generalization to unseen reaction types, achieving reliable mapping of atoms between reactants and products.
+
+   c. Collaborated with peers and mentor to investigate reaction mechanisms, exploring atom-to-atom mapping techniques to enhance model robustness.
       
-7. UROP 1000 on Complex Network: Analyzing Dynamic Volatility Spillover between Chinese Carbon and International Energy Markets from Climate Shocks, Jun/2023 - Aug/2023
+7. UROP 1000 on Complex Network: Analyzing Dynamic Volatility Spillover between Chinese Carbon and International Energy Markets from Climate Shocks, Jun 2023 - Aug 2023
       
    Supervisor: Prof. [Sai-Ping Li](https://physics.hkust.edu.hk/people/li-sai-ping-lishibing)
 
@@ -88,7 +108,7 @@ Research Projects
 
    b. Optimized process, prepared input data for rigorous model testing and drew results from the model.
 
-9. Robot Master: Robot competition, Feb/2023 - Apr/2023
+9. Robot Master: Robot competition, Feb 2023 - Apr 2023
 
    a. Responsible for the mechanical design of two robots and self-studied SolidWorks.
 
@@ -99,7 +119,7 @@ Working experience
 
 Company: Guangzhou Xiaochuang Intelligent Technology Co., Ltd, Guangzhou, China
 
-RD Intern: Paper Method Restructuring, Dec/2024 – Feb/2025
+R&D Intern: Algorithm Implementation, Dec 2024 – Feb 2025
 
 Supervisor: Dr. [Ziyi Tang](https://openreview.net/profile?id=~Ziyi_Tang1)
 
