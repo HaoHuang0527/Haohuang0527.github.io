@@ -83,7 +83,7 @@ Research Projects
 
    a. Formulate agent-environment interactions as Markov Decision Processes (MDPs) to enable sequential decision-making and reasoning over dynamic environments.
 
-   b. Implemented ARPO/BRPO/GRPO progressive reward normalization and trajectory-level optimization (PPO/GAE vs. GRPO), achieving stable multi-turn updates and reducing gradient spikes.
+   b. Implemented BRPO/GRPO progressive reward normalization and trajectory-level optimization (PPO/GAE vs. GRPO), achieving stable multi-turn updates and reducing gradient spikes.
 
    c. Added uncertainty-based trajectory filtering and gradient shaping (KL removal, asymmetric clipping) to delay collapse and improve sample efficiency.
       
