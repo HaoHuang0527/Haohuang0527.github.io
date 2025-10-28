@@ -45,17 +45,17 @@ Technical Skills
 ------
 Honour
 
-Spring 2024: The BDR Scholarship - Academic Performance
+The BDR Scholarship - Academic Performance, Spring 2024
 
-Fall 2023: The BDR Scholarship - Academic Performance
+The BDR Scholarship - Academic Performance, Fall 2023
 
-Spring 2023: Dean's List for the School of Engineering
+Dean's List for the School of Engineering, Spring 2023
 
-Fall 2022: Dean's List for the School of Engineering
+Dean's List for the School of Engineering, Fall 2022
 
-2021: Second prize of Guangdong Province in the 37th Chinese Mathematical Olympiad
+Second prize of Guangdong Province in the 37th Chinese Mathematical Olympiad, 2021
 
-2020: Second prize of Guangdong Province in the 37th Chinese Physics Olympiad
+Second prize of Guangdong Province in the 37th Chinese Physics Olympiad, 2020
 
 ------
 Research Projects
