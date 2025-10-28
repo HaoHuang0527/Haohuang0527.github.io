@@ -41,28 +41,28 @@ Technical Skills
    
    Python: Proficient in Python, master several models like OpenCV and Pillow of editing images.
    
-3. Libraries & Tools:
+2. Libraries & Tools:
 
    Machine Learning: PyTorch, JAX, Scikit-learn
 
    Numerical Computing: NumPy
 
-5. Language: Fluent in Mandarin and English, both in written and spoken forms
+3. Language: Fluent in Mandarin and English, both in written and spoken forms
 
 ------
 Honour
 
-The BDR Scholarship - Academic Performance, Spring 2024
+1. The BDR Scholarship - Academic Performance, Spring 2024
 
-The BDR Scholarship - Academic Performance, Fall 2023
+2. The BDR Scholarship - Academic Performance, Fall 2023
 
-Dean's List for the School of Engineering, Spring 2023
+3. Dean's List for the School of Engineering, Spring 2023
 
-Dean's List for the School of Engineering, Fall 2022
+4. Dean's List for the School of Engineering, Fall 2022
 
-Second prize of Guangdong Province in the 37th Chinese Mathematical Olympiad, 2021
+5. Second prize of Guangdong Province in the 37th Chinese Mathematical Olympiad, 2021
 
-Second prize of Guangdong Province in the 37th Chinese Physics Olympiad, 2020
+6. Second prize of Guangdong Province in the 37th Chinese Physics Olympiad, 2020
 
 ------
 Research Projects
@@ -97,7 +97,7 @@ Research Projects
 
    c. Applied Noise Collage techniques to blend visual elements, creating dynamic and diverse image compositions, thereby expanding the creative potential of the Stable Diffusion model.
       
-5. UROP 1100 on ReactionOOD: Investigating machine learning methods of ReactionOOD, Jun 2024 -- Aug 2024
+4. UROP 1100 on ReactionOOD: Investigating machine learning methods of ReactionOOD, Jun 2024 -- Aug 2024
       
    Supervisor: Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/)
 
@@ -107,7 +107,7 @@ Research Projects
 
    c. Collaborated with peers and mentor to investigate reaction mechanisms, exploring atom-to-atom mapping techniques to enhance model robustness.
       
-7. UROP 1000 on Complex Network: Analyzing Dynamic Volatility Spillover between Chinese Carbon and International Energy Markets from Climate Shocks, Jun 2023 - Aug 2023
+5. UROP 1000 on Complex Network: Analyzing Dynamic Volatility Spillover between Chinese Carbon and International Energy Markets from Climate Shocks, Jun 2023 - Aug 2023
       
    Supervisor: Prof. [Sai-Ping Li](https://physics.hkust.edu.hk/people/li-sai-ping-lishibing)
 
@@ -115,7 +115,7 @@ Research Projects
 
    b. Optimized process, prepared input data for rigorous model testing and drew results from the model.
 
-9. Robot Master: Robot competition, Feb 2023 - Apr 2023
+6. Robot Master: Robot competition, Feb 2023 - Apr 2023
 
    a. Responsible for the mechanical design of two robots and self-studied SolidWorks.
 
@@ -131,7 +131,10 @@ R&D Intern: Algorithm Implementation, Dec 2024 – Feb 2025
 Supervisor: Dr. [Ziyi Tang](https://openreview.net/profile?id=~Ziyi_Tang1)
 
 1. Focused on paper method restructuring proposed in cutting-edge academic papers.
+   
 2. Sorted out the core ideas and key steps from cutting-edge academic papers.
+   
 3. Used Python and PyTorch to implement the algorithmic details in the papers based on the open-source code libraries on Github.
+   
 4. Evaluated the performance of the reproduced model and conducted a comparative analysis with the results claimed in the papers.
 
