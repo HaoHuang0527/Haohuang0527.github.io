@@ -36,14 +36,18 @@ Education
 Technical Skills
 
 1. Computer Languages: Python, JavaScript, SQL, Bash, C/C++, MATLAB
+   
    C++: Proficient in C++, equipped with advanced skills such as efficient memory management, template metaprogramming, and object - oriented design patterns etc.
+   
    Python: Proficient in Python, master several models like OpenCV and Pillow of editing images.
    
-2. Libraries & Tools:
+3. Libraries & Tools:
+
    Machine Learning: PyTorch, JAX, Scikit-learn
+
    Numerical Computing: NumPy
 
-3. Language: Fluent in Mandarin and English, both in written and spoken forms
+5. Language: Fluent in Mandarin and English, both in written and spoken forms
 
 ------
 Honour
