@@ -2,12 +2,12 @@
 title: " 	HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2026-01
-venue: 'GitHub Journal of Bugs'
-# paperurl: 'http://haohuang0527.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink:  
+excerpt: '1. We proposed HALO, a unified Vision-Language-Action (VLA) model enabling embodied multimodal chain-of-thought (EM-CoT) reasoning via sequential textual task decomposition, visual subgoal prediction, and action generation. 2. We designed a Mixture-of-Transformers (MoT) architecture to decouple semantic reasoning, visual foresight, and action prediction while enabling cross-expert collaboration. 3. We introduced an automated pipeline for synthesizing EM-CoT training data and a tailored training recipe for scalable learning. 4. We achieved superior performance in simulated and real-world settings, outperforming baseline π₀ by 34.1% on the RoboTwin benchmark; demonstrated strong generalization under aggressive unseen environmental randomization.'
+date: 2026-02
+venue: 'ICML 2026'
+paperurl: 'http://haohuang0527.github.io/files/paper3.pdf'
+citation: 'Quanxin Shou, Fangqi Zhu, Shuang Chen, Puxin Yan, Zhengyang Yan, Yikun Miao, Xiaoyi Pang, Zicong Hong, Ruikai Shi, Hao Huang, Jie Zhang, Song Guo'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
