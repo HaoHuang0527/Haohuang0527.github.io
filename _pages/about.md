@@ -122,6 +122,22 @@ Research Projects
    b. Worked closely with team members in all aspects of the project, which enhanced my teamwork skills.
 
 ------
+Publications
+
+1. HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning
+
+   Quanxin Shou, Fangqi Zhu, Shuang Chen, Puxin Yan, Zhengyang Yan, Yikun Miao, Xiaoyi Pang, Zicong Hong, Ruikai Shi, Hao Huang, Jie Zhang, Song Guo
+
+   Under Review at ICML 2026
+   a. •	We proposed HALO, a unified Vision-Language-Action (VLA) model enabling embodied multimodal chain-of-thought (EM-CoT) reasoning via sequential textual task decomposition, visual subgoal prediction, and action generation.
+
+   b. We designed a Mixture-of-Transformers (MoT) architecture to decouple semantic reasoning, visual foresight, and action prediction while enabling cross-expert collaboration.
+
+   c. We introduced an automated pipeline for synthesizing EM-CoT training data and a tailored training recipe for scalable learning.
+ 
+   d. We achieved superior performance in simulated and real-world settings, outperforming baseline π₀ by 34.1% on the RoboTwin benchmark; demonstrated strong generalization under aggressive unseen environmental randomization.
+
+------
 Working experience
 
 Company: Guangzhou Xiaochuang Intelligent Technology Co., Ltd, Guangzhou, China
