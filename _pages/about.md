@@ -126,7 +126,7 @@ Publications
 
 1. HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning
 
-   Quanxin Shou, Fangqi Zhu, Shuang Chen, Puxin Yan, Zhengyang Yan, Yikun Miao, Xiaoyi Pang, Zicong Hong, Ruikai Shi, Hao Huang, Jie Zhang, Song Guo
+   Quanxin Shou, Fangqi Zhu, Shuang Chen, Puxin Yan, Zhengyang Yan, Yikun Miao, Xiaoyi Pang, Zicong Hong, Ruikai Shi, <strong>Hao Huang</strong>, Jie Zhang, Song Guo
 
    Under Review at ICML 2026
    a. •	We proposed HALO, a unified Vision-Language-Action (VLA) model enabling embodied multimodal chain-of-thought (EM-CoT) reasoning via sequential textual task decomposition, visual subgoal prediction, and action generation.
