@@ -7,7 +7,7 @@ excerpt: 'A. We proposed HALO, a unified Vision-Language-Action (VLA) model enab
 date: 2026-06-01  # ICML 2026 预估时间，可根据实际提交/评审时间调整
 venue: 'Under Review at ICML 2026'
 paperurl: ''  # 若有论文预印本链接，填此处（如arXiv地址）；无则留空
-citation: 'Quanxin Shou, Fangqi Zhu, Shuang Chen, Puxin Yan, Zhengyang Yan, Yikun Miao, Xiaoyi Pang, Zicong Hong, Ruikai Shi, <strong>Huang, Hao.</strong>, Jie Zhang, & Song Guo. (2026). "HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning." <i>Under Review at ICML 2026</i>.'
+citation: 'Quanxin Shou, Fangqi Zhu, Shuang Chen, Puxin Yan, Zhengyang Yan, Yikun Miao, Xiaoyi Pang, Zicong Hong, Ruikai Shi, <strong>Huang, Hao</strong>, Jie Zhang, & Song Guo. (2026). "HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning." <i>Under Review at ICML 2026</i>.'
 ---
 
 ### Abstract & Key Contributions
