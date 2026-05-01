@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student majoring in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://www.hkust.edu.hk/). My academic interests focus on applied artificial intelligence for business and consumer applications, including recommendation systems, data analytics, and software engineering for AI-powered products. Through coursework in machine 
-learning, algorithms, and software development at HKUST, I have built a solid foundation for industry-oriented graduate studies.
+I am an undergraduate student majoring in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://www.hkust.edu.hk/). My academic interests focus on applied artificial intelligence for business and consumer applications. Through coursework in machine learning, algorithms, and software development at HKUST, I have built a solid foundation for industry-oriented graduate studies.
 
 ------
 Education
