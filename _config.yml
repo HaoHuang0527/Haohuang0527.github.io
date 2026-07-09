@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hao Huang / Undergraduate student"
+title                    : "Hao Huang / Incoming Master’s student"
 title_separator          : "-"
 name                     : &name "Hao Huang"
-description              : &description "An undergraduate student majoring in Computer Science and Engineering at The Hong Kong University of Science and Technology"
+description              : &description "Incoming Master’s student in **Computer Science and Engineering** at UC San Diego"
 url                      : https://HaoHuang0527.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HaoHuang0527/HaoHuang.github.io"
@@ -25,8 +25,8 @@ author:
   avatar           : "HIKING.png"
   name             : "Hao Huang"
   pronouns         : # example: "he/him"  
-  bio              : "An undergraduate student majoring in Computer Science and Engineering at The Hong Kong University of Science and Technology"
-  location         : "Hong Kong"
+  bio              : "Incoming Master’s student in **Computer Science and Engineering** at UC San Diego"
+  location         : "San Diego, California, USA"
   employer         : 
   uri              : # URL
   email            : "(haohuang0527@gmail.com0" 
