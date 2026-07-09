@@ -12,17 +12,17 @@ I am an incoming Master student majoring in [Computer Science and Engineering](h
 ------
 Education
 
-1.**The University of California San Diego (UCSD)**,	   Sept. 2026 - Jun. 2028
+1.**The University of California San Diego (UCSD)**, Sept. 2026 - Jun. 2028
 
    Master of Science in Computer Science and Engineering
   
-2. The Hong Kong University of Science and Technology,   Sept. 2022 - Jun. 2026
+2. **The Hong Kong University of Science and Technology**, Sept. 2022 - Jun. 2026
 
    B.Eng in Computer Science and Engineering with an Extended Major in Artificial Intelligence
 
    Research Lab: The Pervasive Intelligence Laboratorym
 
-3. Korea Advanced Institute of Science and Technology ,   Feb 2025 - Jun 2025
+3. **Korea Advanced Institute of Science and Technology**, Feb 2025 - Jun 2025
 
    Undergraduate Student Exchange Program
 
