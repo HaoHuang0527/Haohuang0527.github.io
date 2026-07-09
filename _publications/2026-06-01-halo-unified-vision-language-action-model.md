@@ -10,7 +10,7 @@ venue: 'International Conference on Machine Learning (ICML 2026), Poster Present
 # slidesurl: '/files/icml26_halo_slides.pdf'
 # paperurl: '/files/icml26_halo_paper.pdf'
 # bibtexurl: '/files/icml26_halo_bib.bib'
-paperurl: '[https://arxiv.org/abs/2602.21157](https://arxiv.org/abs/2602.21157)'
+paperurl: 'https://arxiv.org/abs/2602.21157'
 citation: 'Quanxin Shou, Fangqi Zhu, Shuang Chen, Puxin Yan, Zhengyang Yan, Yikun Miao, Xiaoyi Pang, Zicong Hong, Ruikai Shi, Hao Huang, Jie Zhang, Song Guo. (2026). &quot;HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning.&quot; <i>International Conference on Machine Learning (ICML 2026)</i>. Poster Presentation.'
 ---
 
