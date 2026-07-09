@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hao Huang (黄浩) / Incoming Master’s student"
+title                    : "Hao Huang / Incoming Master’s student"
 title_separator          : "-"
 name                     : &name "Hao Huang"
 description              : &description "Incoming Master’s student in **Computer Science and Engineering** at UC San Diego"
@@ -23,7 +23,7 @@ repository               : "HaoHuang0527/HaoHuang.github.io"
 author:
   # Biographic information
   avatar           : "HIKING.png"
-  name             : "Hao Huang"
+  name             : "Hao Huang (黄浩)"
   pronouns         : # example: "he/him"  
   bio              : "Incoming Master’s student in Computer Science and Engineering at UC San Diego"
   location         : "San Diego, California, USA"
