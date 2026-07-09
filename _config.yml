@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hao Huang / Incoming Master’s student"
+title                    : "Hao Huang (黄浩) / Incoming Master’s student"
 title_separator          : "-"
 name                     : &name "Hao Huang"
 description              : &description "Incoming Master’s student in **Computer Science and Engineering** at UC San Diego"
