@@ -29,36 +29,26 @@ I am an incoming Master student majoring in [Computer Science and Engineering](h
 ------
 **Working experience**
 
-Company: Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), Shenzhen, China
+**Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)**, Shenzhen, China
 
-R&D Intern: Algorithm Implementation, Dec 2024 – Feb 2025
+R&D Intern (Embodied AI), Jun. 2026 – Present
 
-Supervisor: Dr. [Ziyi Tang](https://openreview.net/profile?id=~Ziyi_Tang1)
-
-1. Focused on paper method restructuring proposed in cutting-edge academic papers.
+1. Reproduce and evaluate state-of-the-art robotic simulation platforms and benchmarks (including ManiSkill3, Isaac Sim and related frameworks) through comprehensive literature review and benchmarking.
    
-2. Sorted out the core ideas and key steps from cutting-edge academic papers.
+2. Configure highly reproducible physics simulation environments and develop automated Python pipelines for high-throughput metric collection, statistical analysis, and visualization.
    
-3. Used Python and PyTorch to implement the algorithmic details in the papers based on the open-source code libraries on Github.
+3. Conduct comparative evaluations and prepare technical reports supporting reinforcement learning research pipelines.
+
+**Guangzhou Xiaochuang Intelligent Technology Co., Ltd**, Guangzhou, China
+
+R&D Intern (AI Agent Team)	, Dec 2024 – Feb 2025
+
+1. Reproduced and deployed the cutting-edge multimodal financial foundation agent framework "FinAgent" from scratch using Python and PyTorch.
    
-4. Evaluated the performance of the reproduced 
-
-Company: Guangzhou Xiaochuang Intelligent Technology Co., Ltd, Guangzhou, China
-
-R&D Intern: Algorithm Implementation, Dec 2024 – Feb 2025
-
-Supervisor: Dr. [Ziyi Tang](https://openreview.net/profile?id=~Ziyi_Tang1)
-
-1. Focused on paper method restructuring proposed in cutting-edge academic papers.
+2. Implemented core tool-augmented decision-making modules, enabling the agent to process diverse, multimodal streams (financial news, charts, order books) for sequential trading strategy formulation.
    
-2. Sorted out the core ideas and key steps from cutting-edge academic papers.
-   
-3. Used Python and PyTorch to implement the algorithmic details in the papers based on the open-source code libraries on Github.
-   
-4. Evaluated the performance of the reproduced 
-
 ------
-Technical Skills
+**Technical Skills**
 
 1. Computer Languages: Python, JavaScript, SQL, Bash, C/C++, MATLAB
    
