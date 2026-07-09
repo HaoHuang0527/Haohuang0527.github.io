@@ -7,20 +7,55 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student majoring in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://www.hkust.edu.hk/). My academic interests focus on applied artificial intelligence for business and consumer applications. Through coursework in machine learning, algorithms, and software development at HKUST, I have built a solid foundation for industry-oriented graduate studies.
+I am an incoming Master student majoring in [Computer Science and Engineering](https://cse.ucsd.edu/?_gl=1*xpsmtk*_gcl_au*OTU1NTU5MDczLjE3NzkzMzQzNjA.*FPAU*OTU1NTU5MDczLjE3NzkzMzQzNjA.*_ga*MTQ3OTQwMjYzMS4xNzc5MzM0MzYw*_ga_PWJGRGMV0T*czE3ODM1ODg2ODkkbzEyJGcwJHQxNzgzNTg4Njg5JGo2MCRsMCRoMA..) at [The University of California San Diego (UCSD)](https://www.ucsd.edu). My academic interests focus on Embodied AI, Vision-Language-Action Models, Robot Learning, World Models and Multimodal Reasoning.
 
 ------
 Education
 
-1. The Hong Kong University of Science and Technology,   Sept 2022 - Present
+1.[The University of California San Diego (UCSD)](Bold),	   Sept. 2026 - Jun. 2028
 
-   Major: Computer Science and Engineering with an Extended Major in Artificial Intelligence
+   Master of Science in Computer Science and Engineering
+  
+2. The Hong Kong University of Science and Technology,   Sept. 2022 - Jun. 2026
 
-   Key Courses: Deep Learning, Data Structures Analysis, Algorithm Design, Relational Database, Operating System
+   B.Eng in Computer Science and Engineering with an Extended Major in Artificial Intelligence
 
-2. Korea Advanced Institute of Science and Technology ,   Feb 2025 - Jun 2025
+   Research Lab: The Pervasive Intelligence Laboratorym
+
+3. Korea Advanced Institute of Science and Technology ,   Feb 2025 - Jun 2025
 
    Undergraduate Student Exchange Program
+
+------
+Working experience
+
+Company: Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), Shenzhen, China
+
+R&D Intern: Algorithm Implementation, Dec 2024 – Feb 2025
+
+Supervisor: Dr. [Ziyi Tang](https://openreview.net/profile?id=~Ziyi_Tang1)
+
+1. Focused on paper method restructuring proposed in cutting-edge academic papers.
+   
+2. Sorted out the core ideas and key steps from cutting-edge academic papers.
+   
+3. Used Python and PyTorch to implement the algorithmic details in the papers based on the open-source code libraries on Github.
+   
+4. Evaluated the performance of the reproduced 
+
+Company: Guangzhou Xiaochuang Intelligent Technology Co., Ltd, Guangzhou, China
+
+R&D Intern: Algorithm Implementation, Dec 2024 – Feb 2025
+
+Supervisor: Dr. [Ziyi Tang](https://openreview.net/profile?id=~Ziyi_Tang1)
+
+1. Focused on paper method restructuring proposed in cutting-edge academic papers.
+   
+2. Sorted out the core ideas and key steps from cutting-edge academic papers.
+   
+3. Used Python and PyTorch to implement the algorithmic details in the papers based on the open-source code libraries on Github.
+   
+4. Evaluated the performance of the reproduced 
 
 ------
 Technical Skills
@@ -92,19 +127,3 @@ Research Projects
    b. Worked closely with team members in all aspects of the project, which enhanced my teamwork skills.
 
 
-------
-Working experience
-
-Company: Guangzhou Xiaochuang Intelligent Technology Co., Ltd, Guangzhou, China
-
-R&D Intern: Algorithm Implementation, Dec 2024 – Feb 2025
-
-Supervisor: Dr. [Ziyi Tang](https://openreview.net/profile?id=~Ziyi_Tang1)
-
-1. Focused on paper method restructuring proposed in cutting-edge academic papers.
-   
-2. Sorted out the core ideas and key steps from cutting-edge academic papers.
-   
-3. Used Python and PyTorch to implement the algorithmic details in the papers based on the open-source code libraries on Github.
-   
-4. Evaluated the performance of the reproduced 
