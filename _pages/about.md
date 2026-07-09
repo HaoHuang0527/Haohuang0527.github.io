@@ -10,7 +10,7 @@ redirect_from:
 I am an incoming Master student majoring in [Computer Science and Engineering](https://cse.ucsd.edu/?_gl=1*xpsmtk*_gcl_au*OTU1NTU5MDczLjE3NzkzMzQzNjA.*FPAU*OTU1NTU5MDczLjE3NzkzMzQzNjA.*_ga*MTQ3OTQwMjYzMS4xNzc5MzM0MzYw*_ga_PWJGRGMV0T*czE3ODM1ODg2ODkkbzEyJGcwJHQxNzgzNTg4Njg5JGo2MCRsMCRoMA..) at [The University of California San Diego (UCSD)](https://www.ucsd.edu). My academic interests focus on Embodied AI, Vision-Language-Action Models, Robot Learning, World Models and Multimodal Reasoning.
 
 ------
-Education
+**Education**
 
 1.**The University of California San Diego (UCSD)**, Sept. 2026 - Jun. 2028
 
@@ -27,7 +27,7 @@ Education
    Undergraduate Student Exchange Program
 
 ------
-Working experience
+**Working experience**
 
 Company: Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), Shenzhen, China
 
