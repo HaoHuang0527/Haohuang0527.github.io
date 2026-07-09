@@ -12,7 +12,7 @@ I am an incoming Master student majoring in [Computer Science and Engineering](h
 ------
 **EDUCATION**
 
-1. **The University of California San Diego (UCSD)**, Sept. 2026 - Jun. 2028  
+1. **The University of California San Diego (UCSD)**, Sept. 2026 - Jun. 2028(Expected)  
    Master of Science in Computer Science and Engineering  
 
 2. **The Hong Kong University of Science and Technology**, Sept. 2022 - Jun. 2026  
