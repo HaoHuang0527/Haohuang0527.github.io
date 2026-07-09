@@ -12,7 +12,7 @@ I am an incoming Master student majoring in [Computer Science and Engineering](h
 ------
 Education
 
-1.[The University of California San Diego (UCSD)](Bold),	   Sept. 2026 - Jun. 2028
+1.**The University of California San Diego (UCSD)**,	   Sept. 2026 - Jun. 2028
 
    Master of Science in Computer Science and Engineering
   
