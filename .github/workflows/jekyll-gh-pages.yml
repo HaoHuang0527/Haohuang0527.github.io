@@ -36,16 +36,11 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      # 【核心修复步骤】解开所有的符号链接，将其转化为真实文件，确保能被 Pages 顺利接收
-      - name: Resolve Symlinks
-        run: |
-          cd _site
-          find . -type l -exec sh -c 'for link; do true_file=$(readlink -f "$link"); rm "$link"; cp -R "$true_file" "$link"; done' _ {} +
-
+      # 使用官方专门为 Pages 设计的上传组件，它会自动把 _site 打包成标准的 tar 归档
+      # tar 归档在打包时会自动解开或正确处理所有的 symlinks/hardlinks
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: github-pages
           path: ./_site
 
   deploy:
