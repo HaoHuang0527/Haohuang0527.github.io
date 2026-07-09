@@ -43,20 +43,25 @@ Supervisor: Dr. Hongtao Wu, Dr. Tao Kong (ByteDance, Seed Robotics)
 1. Proposed IRASim, a framework for generating high-quality videos accurately depicting fine-grained robotic arm-object interaction. Using a novel frame-level action conditioning module, IRASim achieves precise alignment between actions and video frames.
 2. Conducted extensive experiments on action-conditioned video generation, demonstrating that IRASim outperforms all baseline methods in terms of video quality. Moreover, the model exhibits strong scalability with increasing model size and computational resources.
 3. Demonstrated IRASim’s application in robotic manipulation for policy evaluation and planning, achieving strong correlation between IRASim-based evaluations and real-world simulators. Integration with model-based planning algorithms significantly improves policy performance in both simulated and real robotic environments.
+
 **RAGEN: Reinforcement Learning for Reasoning-Able Language Models**, Mar. 2025 – Jul. 2025  
 Supervisor: Zhiheng Lyu; Prof. Wenhu Chen  
 1. Formulated agent-environment interactions as Markov Decision Processes (MDPs) for sequential decision-making and reasoning over dynamic environments. 
 2. Implemented BRPO/GRPO progressive reward normalization and trajectory-level optimization (PPO/GAE vs. GRPO), achieving stable multi-turn updates and reducing gradient spikes.
-3. Added uncertainty-based trajectory filtering and gradient shaping (KL removal, asymmetric clipping) to delay collapse and improve sample efficiency.  
+3. Added uncertainty-based trajectory filtering and gradient shaping (KL removal, asymmetric clipping) to delay collapse and improve sample efficiency.
+
 **Integration of BLIP and Noise Collage within the Stable Diffusion framework**, Sept. 2024 – Feb. 2025  
 Supervisor: PhD Bingjie Wang; Prof. Song Guo  
 1. Enhanced text-to-image alignment using BLIP (Bootstrapped Language-Image Pre-training)’s advanced semantic understanding capabilities, significantly improving the quality of generated images based on textual descriptions.
 2. Adapted layout-aware text-to-image generation with accurate object positions, semantic coherence, and image fidelity.
 3. Applied Noise Collage techniques to blend visual elements, creating dynamic and diverse image compositions, thereby expanding the creative potential of the Stable Diffusion model.
+
 **UROP 1100 on Investigating machine learning methods of ReactionOOD**, Jun. 2024 – Aug. 2024
-1. Trained and evaluated the Chemprop model using the GOOD dataset for accurate atom-to-atom mapping and evaluated model generalization to unseen chemical reaction.  
+1. Trained and evaluated the Chemprop model using the GOOD dataset for accurate atom-to-atom mapping and evaluated model generalization to unseen chemical reaction.
+
 **UROP 1000 on Analyzing Dynamic Volatility Spillover between Chinese Carbon and International Energy Markets from Climate Shocks**, Jun. 2023 – Aug. 2023  
-1. Investigated relationships between Chinese carbon and international energy markets under climate shock impacts using time-series econometric models, conducted rigorous model testing to derive results.  
+1. Investigated relationships between Chinese carbon and international energy markets under climate shock impacts using time-series econometric models, conducted rigorous model testing to derive results.
+
 **Robot Master for robot competition**, Feb. 2023 – Apr. 2023  
 1. Designed the mechanical structure of two robots and independently learned SolidWorks.  
 
