@@ -67,11 +67,11 @@ Supervisor: PhD Bingjie Wang; Prof. Song Guo
 
 ------
 **TECHNICAL SKILLS**  
-1. **Computer Languages**: Python, C/C++ (Efficient memory management and OOP design patterns), JavaScript, SQL, Bash.
-2. **Embodied AI & Libraries**: PyTorch, JAX, HuggingFace Transformers, OpenVLA, LeRobot, Chemprop, Scikit-learn, NumPy.
-3. **Robotics & Simulation**: NVIDIA Isaac Sim (Isaac Lab), ManiSkill3, RoboTwin, robosuite, ROS (Exposure).
-4. **Policy & Control**: Behavior Cloning (Diffusion Policy, ACT), Reinforcement Learning (PPO, GRPO), World Models, Sim-to-Real Transfer, Action Chunking.
-5. **Hardware Experience**: Mobile ALOHA (Bi-arm platform), 6-DoF Manipulators (Franka Emika, UR5), Intel RealSense Cameras, SolidWorks.
+1. **Computer Languages**: Python, C/C++, JavaScript, SQL, Bash.
+2. **Embodied AI & Libraries**: PyTorch, HuggingFace Transformers, OpenVLA, LeRobot, Scikit-learn, NumPy.
+3. **Robotics & Simulation**: NVIDIA Isaac Sim (Isaac Lab), ManiSkill3, RoboTwin, LIBERO, robosuite, ROS.
+4. **Policy & Control**: Behavior Cloning (Diffusion Policy, ACT), Reinforcement Learning (PPO, GRPO), World Models, Sim-to-Real Transfer.
+5. **Hardware Experience**: Mobile ALOHA (Bi-arm platform), SolidWorks.
 6. **Language**: English (Fluent), Mandarin (Native).
 
 ------
