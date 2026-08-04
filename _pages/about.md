@@ -38,6 +38,7 @@ R&D Intern (AI Agent Team), Dec. 2024 – Feb. 2025
 
 ------
 **RESEARCH AND PROJECTS**
+
 **IRASim: A Fine-Grained World Model for Robotic Manipulation**, Jun. 2025 – Mar. 2026  
 Supervisor: Dr. Hongtao Wu, Dr. Tao Kong (ByteDance, Seed Robotics)  
 1. Proposed IRASim, a framework for generating high-quality videos accurately depicting fine-grained robotic arm-object interaction. Using a novel frame-level action conditioning module, IRASim achieves precise alignment between actions and video frames.
