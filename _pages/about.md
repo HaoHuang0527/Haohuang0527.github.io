@@ -12,14 +12,14 @@ I am an incoming Master student majoring in [Computer Science and Engineering](h
 ------
 **EDUCATION**
 
-1. **The University of California San Diego (UCSD)**, Sept. 2026 - Jun. 2028(Expected)  
+1. **University of California San Diego (UCSD)**, Sept. 2026 - Jun. 2028(Expected)  
    Master of Science in Computer Science and Engineering  
 
-2. **The Hong Kong University of Science and Technology**, Sept. 2022 - Jun. 2026  
+2. **The Hong Kong University of Science and Technology (HKUST)**, Sept. 2022 - Jun. 2026  
    B.Eng in Computer Science and Engineering with honors (with an Extended Major in Artificial Intelligence)  
    Research Lab: The Pervasive Intelligence Laboratorym
 
-3. **Korea Advanced Institute of Science and Technology**, Fe.b 2025 - Jun. 2025  
+3. **Korea Advanced Institute of Science and Technology (KAIST)**, Fe.b 2025 - Jun. 2025  
    Undergraduate Student Exchange Program
 
 ------
@@ -27,9 +27,9 @@ I am an incoming Master student majoring in [Computer Science and Engineering](h
 
 **Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)**, Shenzhen, China  
 R&D Intern (Embodied AI), Jun. 2026 – Present  
-1. Reproduce and evaluate state-of-the-art robotic simulation platforms and benchmarks (including ManiSkill3, Isaac Sim and related frameworks) through comprehensive literature review and benchmarking.
-2. Configure highly reproducible physics simulation environments and develop automated Python pipelines for high-throughput metric collection, statistical analysis, and visualization.
-3. Conduct comparative evaluations and prepare technical reports supporting reinforcement learning research pipelines.
+1. Surveyed robotic manipulation benchmarks and simulators, including LIBERO, ManiSkill3, Robosuite, Meta-World, CALVIN, RLBench, and SAPIEN, comparing task design, simulator fidelity, reproducibility, and evaluation protocols.
+2. Reviewed world-model and physical-reasoning evaluation suites, including Cosmos-related evaluations, Phy-Q, WorldReasonBench, PAI-Bench, and SC3-Eval, summarizing task settings, metrics, and relevance to embodied AI.
+3. Designed automated Python data-collection scripts for LIBERO by parsing its BDDL task specification format, enabling scalable collection of task-execution and demonstration data.
 
 **Guangzhou Xiaochuang Intelligent Technology Co., Ltd**, Guangzhou, China  
 R&D Intern (AI Agent Team), Dec. 2024 – Feb. 2025  
@@ -41,15 +41,15 @@ R&D Intern (AI Agent Team), Dec. 2024 – Feb. 2025
 
 **IRASim: A Fine-Grained World Model for Robotic Manipulation**, Jun. 2025 – Mar. 2026  
 Supervisor: Dr. Hongtao Wu, Dr. Tao Kong (ByteDance, Seed Robotics)  
-1. Proposed IRASim, a framework for generating high-quality videos accurately depicting fine-grained robotic arm-object interaction. Using a novel frame-level action conditioning module, IRASim achieves precise alignment between actions and video frames.
-2. Conducted extensive experiments on action-conditioned video generation, demonstrating that IRASim outperforms all baseline methods in terms of video quality. Moreover, the model exhibits strong scalability with increasing model size and computational resources.
-3. Demonstrated IRASim’s application in robotic manipulation for policy evaluation and planning, achieving strong correlation between IRASim-based evaluations and real-world simulators. Integration with model-based planning algorithms significantly improves policy performance in both simulated and real robotic environments.
+1. Contributed to the final-stage real-world experiments for IRASim, a fine-grained action-conditioned world model for robotic manipulation.
+2. Ran real-robot manipulation rollouts to compare IRASim-based policy evaluation with actual execution outcomes.
+3. Analyzed policy-ranking consistency, downstream success rates, and representative failure cases to support IRASim-based policy evaluation and model-based planning.
 
 **RAGEN: Reinforcement Learning for Reasoning-Able Language Models**, Mar. 2025 – Jul. 2025  
 Supervisor: Zhiheng Lyu; Prof. Wenhu Chen  
-1. Formulated agent-environment interactions as Markov Decision Processes (MDPs) for sequential decision-making and reasoning over dynamic environments. 
-2. Implemented BRPO/GRPO progressive reward normalization and trajectory-level optimization (PPO/GAE vs. GRPO), achieving stable multi-turn updates and reducing gradient spikes.
-3. Added uncertainty-based trajectory filtering and gradient shaping (KL removal, asymmetric clipping) to delay collapse and improve sample efficiency.
+1. Reproduced RAGEN training pipelines for reinforcement learning with reasoning-oriented language models in dynamic multi-turn environments.
+2. Assisted in running BRPO/GRPO and PPO/GAE experiments, including reward normalization, trajectory-level optimization, and training-log analysis.
+3. Assisted with model training, experiment monitoring, hyperparameter tuning, and debugging to improve training stability and reduce gradient spikes.
 
 **Integration of BLIP and Noise Collage within the Stable Diffusion framework**, Sept. 2024 – Feb. 2025  
 Supervisor: PhD Bingjie Wang; Prof. Song Guo  
@@ -57,13 +57,13 @@ Supervisor: PhD Bingjie Wang; Prof. Song Guo
 2. Adapted layout-aware text-to-image generation with accurate object positions, semantic coherence, and image fidelity.
 3. Applied Noise Collage techniques to blend visual elements, creating dynamic and diverse image compositions, thereby expanding the creative potential of the Stable Diffusion model.
 
-**UROP 1100 on Investigating machine learning methods of ReactionOOD**, Jun. 2024 – Aug. 2024
+**UROP 1100 on Investigating Machine Learning Methods of ReactionOOD**, Jun. 2024 – Aug. 2024
 1. Trained and evaluated the Chemprop model using the GOOD dataset for accurate atom-to-atom mapping and evaluated model generalization to unseen chemical reaction.
 
 **UROP 1000 on Analyzing Dynamic Volatility Spillover between Chinese Carbon and International Energy Markets from Climate Shocks**, Jun. 2023 – Aug. 2023  
 1. Investigated relationships between Chinese carbon and international energy markets under climate shock impacts using time-series econometric models, conducted rigorous model testing to derive results.
 
-**Robot Master for robot competition**, Feb. 2023 – Apr. 2023  
+**Robot Master for Robot Competition**, Feb. 2023 – Apr. 2023  
 1. Designed the mechanical structure of two robots and independently learned SolidWorks.  
 
 ------
@@ -73,7 +73,7 @@ Supervisor: PhD Bingjie Wang; Prof. Song Guo
 3. **Robotics & Simulation**: NVIDIA Isaac Sim (Isaac Lab), ManiSkill3, RoboTwin, LIBERO, robosuite, ROS.
 4. **Policy & Control**: Behavior Cloning (Diffusion Policy, ACT), Reinforcement Learning (PPO, GRPO), World Models, Sim-to-Real Transfer.
 5. **Hardware Experience**: Mobile ALOHA (Bi-arm platform), SolidWorks.
-6. **Language**: English (Fluent), Mandarin (Native).
+6. **LanguageS**: English (Fluent), Mandarin (Native).
 
 ------
 **HONORS AND AWARDS**  
