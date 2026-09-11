@@ -19,7 +19,7 @@ I am an incoming Master student majoring in [Computer Science and Engineering](h
    B.Eng in Computer Science and Engineering with honors (with an Extended Major in Artificial Intelligence)  
    Research Lab: The Pervasive Intelligence Laboratorym
 
-3. **Korea Advanced Institute of Science and Technology (KAIST)**, Fe.b 2025 - Jun. 2025  
+3. **Korea Advanced Institute of Science and Technology (KAIST)**, Feb. 2025 - Jun. 2025  
    Undergraduate Student Exchange Program
 
 ------
@@ -51,7 +51,7 @@ Supervisor: Zhiheng Lyu; Prof. Wenhu Chen
 2. Assisted in running BRPO/GRPO and PPO/GAE experiments, including reward normalization, trajectory-level optimization, and training-log analysis.
 3. Assisted with model training, experiment monitoring, hyperparameter tuning, and debugging to improve training stability and reduce gradient spikes.
 
-**Integration of BLIP and Noise Collage within the Stable Diffusion framework**, Sept. 2024 – Feb. 2025  
+**Integration of BLIP and Noise Collage within the Stable Diffusion Framework**, Sept. 2024 – Feb. 2025  
 Supervisor: PhD Bingjie Wang; Prof. Song Guo  
 1. Enhanced text-to-image alignment using BLIP (Bootstrapped Language-Image Pre-training)’s advanced semantic understanding capabilities, significantly improving the quality of generated images based on textual descriptions.
 2. Adapted layout-aware text-to-image generation with accurate object positions, semantic coherence, and image fidelity.
@@ -73,7 +73,7 @@ Supervisor: PhD Bingjie Wang; Prof. Song Guo
 3. **Robotics & Simulation**: NVIDIA Isaac Sim (Isaac Lab), ManiSkill3, RoboTwin, LIBERO, robosuite, ROS.
 4. **Policy & Control**: Behavior Cloning (Diffusion Policy, ACT), Reinforcement Learning (PPO, GRPO), World Models, Sim-to-Real Transfer.
 5. **Hardware Experience**: Mobile ALOHA (Bi-arm platform), SolidWorks.
-6. **LanguageS**: English (Fluent), Mandarin (Native).
+6. **Languages**: English (Fluent), Mandarin (Native).
 
 ------
 **HONORS AND AWARDS**  
